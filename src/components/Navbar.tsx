@@ -14,7 +14,7 @@ const navigationItems = [
   { name: "Documents", href: "#documents" },
 ];
 
-function classNames(...classes: any[]) {
+function classNames(...classes: string[]) {
   return classes.filter(Boolean).join(" ");
 }
 
