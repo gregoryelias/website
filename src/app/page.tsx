@@ -15,16 +15,16 @@ export default function HomePage() {
                 </span>
               </h2>
               <p className="max-w-lg mt-6 text-lg leading-relaxed text-gray-100 md:mt-8">
-                I'm a passionate software engineer with two years of hands-on
-                experience. Currently, I'm set to graduate from Georgia Tech
-                this semester with a B.S. in Computer Science, and I'm thrilled
-                to pursue my master's in machine learning in 2025.
+                I&apos;m a passionate software engineer with two years of hands-on
+                experience. Currently, I&apos;m set to graduate from Georgia Tech
+                this semester with a B.S. in Computer Science, and I&apos;m thrilled
+                to pursue my master&apos;s in machine learning in 2025.
                 <br />
                 <br />
-                Since 2022, I’ve interned at TeamDynamix as a Student Software
+                Since 2022, I&apos;ve interned at TeamDynamix as a Student Software
                 Engineer, developing enterprise solutions using Microsoft .NET
                 MVC C#. Since 2023, I have been working as an undergraduate
-                researcher for Georgia Tech's Big Data and Quantum Mechanics
+                researcher for Georgia Tech&apos;s Big Data and Quantum Mechanics
                 team, creating machine learning models to predict chemical
                 reaction energies. In the summer of 2023, I also interned at
                 Target, collaborating with the merchandise planning team.
@@ -147,7 +147,7 @@ export default function HomePage() {
                     data sharing across micro-apps.
                   </li>
                   <li>
-                    Built software using TypeScript and AG Grid's Filter API for
+                    Built software using TypeScript and AG Grid&apos;s Filter API for
                     persisting settings.
                   </li>
                   <li>
@@ -167,7 +167,7 @@ export default function HomePage() {
             Featured Projects
           </h2>
           <p className="text-lg text-gray-600 text-center max-w-2xl mx-auto mb-12">
-            Take a look at some of the major projects I've worked on.
+            Take a look at some of the major projects I&apos;ve worked on.
           </p>
 
           <div className="space-y-16">

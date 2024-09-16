@@ -8,7 +8,7 @@ export default function Footer() {
           <div className="text-center md:text-left">
             <h2 className="text-2xl font-bold text-white">Contact Me</h2>
             <p className="mt-2 text-gray-400">
-              I'd love to connect with you! Feel free to reach out on any of my
+              I&apos;d love to connect with you! Feel free to reach out on any of my
               social media platforms.
             </p>
           </div>
