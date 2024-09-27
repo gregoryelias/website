@@ -59,7 +59,7 @@ export default function HomePage() {
           <p className="text-lg text-gray-600 text-center max-w-2xl mx-auto mb-12">
             Here are the programming languages and frameworks I&apos;ve mastered over the years.
           </p>
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
+          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
             <div className="text-center hover:transform hover:scale-110 transition-transform duration-300 ease-in-out">
               <i className="devicon-python-plain text-6xl colored"></i>
               <p className="mt-2 text-xl text-gray-700">Python</p>
