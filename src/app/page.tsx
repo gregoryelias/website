@@ -51,6 +51,115 @@ export default function HomePage() {
         </div>
       </section>
 
+      <section id="skills" className="py-16 bg-white scroll-mt-16">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <h2 className="text-4xl font-extrabold text-gray-800 mb-8 text-center">
+            Skills
+          </h2>
+          <p className="text-lg text-gray-600 text-center max-w-2xl mx-auto mb-12">
+            Here are the programming languages and frameworks I&apos;ve mastered over the years.
+          </p>
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
+            <div className="text-center hover:transform hover:scale-110 transition-transform duration-300 ease-in-out">
+              <i className="devicon-python-plain text-6xl colored"></i>
+              <p className="mt-2 text-xl text-gray-700">Python</p>
+            </div>
+            <div className="text-center hover:transform hover:scale-110 transition-transform duration-300 ease-in-out">
+              <i className="devicon-java-plain text-6xl colored"></i>
+              <p className="mt-2 text-xl text-gray-700">Java</p>
+            </div>
+            <div className="text-center hover:transform hover:scale-110 transition-transform duration-300 ease-in-out">
+              <i className="devicon-javascript-plain text-6xl colored"></i>
+              <p className="mt-2 text-xl text-gray-700">JavaScript</p>
+            </div>
+            <div className="text-center hover:transform hover:scale-110 transition-transform duration-300 ease-in-out">
+              <i className="devicon-typescript-plain text-6xl colored"></i>
+              <p className="mt-2 text-xl text-gray-700">TypeScript</p>
+            </div>
+            <div className="text-center hover:transform hover:scale-110 transition-transform duration-300 ease-in-out">
+              <i className="devicon-csharp-plain text-6xl colored"></i>
+              <p className="mt-2 text-xl text-gray-700">C#</p>
+            </div>
+            <div className="text-center hover:transform hover:scale-110 transition-transform duration-300 ease-in-out">
+              <i className="devicon-c-plain text-6xl colored"></i>
+              <p className="mt-2 text-xl text-gray-700">C</p>
+            </div>
+            <div className="text-center hover:transform hover:scale-110 transition-transform duration-300 ease-in-out">
+              <i className="devicon-r-plain text-6xl colored"></i>
+              <p className="mt-2 text-xl text-gray-700">R</p>
+            </div>
+            <div className="text-center hover:transform hover:scale-110 transition-transform duration-300 ease-in-out">
+              <i className="devicon-html5-plain text-6xl colored"></i>
+              <p className="mt-2 text-xl text-gray-700">HTML</p>
+            </div>
+            <div className="text-center hover:transform hover:scale-110 transition-transform duration-300 ease-in-out">
+              <i className="devicon-css3-plain text-6xl colored"></i>
+              <p className="mt-2 text-xl text-gray-700">CSS</p>
+            </div>
+            <div className="text-center hover:transform hover:scale-110 transition-transform duration-300 ease-in-out">
+              <i className="devicon-mysql-plain text-6xl colored"></i>
+              <p className="mt-2 text-xl text-gray-700">MySQL</p>
+            </div>
+            <div className="text-center hover:transform hover:scale-110 transition-transform duration-300 ease-in-out">
+              <i className="devicon-postgresql-plain text-6xl colored"></i>
+              <p className="mt-2 text-xl text-gray-700">PostgreSQL</p>
+            </div>
+            {/* Repeat for other icons */}
+            <div className="text-center hover:transform hover:scale-110 transition-transform duration-300 ease-in-out">
+              <i className="devicon-nextjs-plain text-6xl colored"></i>
+              <p className="mt-2 text-xl text-gray-700">Next.js</p>
+            </div>
+            <div className="text-center hover:transform hover:scale-110 transition-transform duration-300 ease-in-out">
+              <i className="devicon-react-plain text-6xl colored"></i>
+              <p className="mt-2 text-xl text-gray-700">React.js</p>
+            </div>
+            <div className="text-center hover:transform hover:scale-110 transition-transform duration-300 ease-in-out">
+              <i className="devicon-nodejs-plain text-6xl colored"></i>
+              <p className="mt-2 text-xl text-gray-700">Node.js</p>
+            </div>
+            <div className="text-center hover:transform hover:scale-110 transition-transform duration-300 ease-in-out">
+              <i className="devicon-angularjs-plain text-6xl colored"></i>
+              <p className="mt-2 text-xl text-gray-700">Angular.js</p>
+            </div>
+            <div className="text-center hover:transform hover:scale-110 transition-transform duration-300 ease-in-out">
+              <i className="devicon-vuejs-plain text-6xl colored"></i>
+              <p className="mt-2 text-xl text-gray-700">Vue.js</p>
+            </div>
+            <div className="text-center hover:transform hover:scale-110 transition-transform duration-300 ease-in-out">
+              <i className="devicon-dotnetcore-plain text-6xl colored"></i>
+              <p className="mt-2 text-xl text-gray-700">.NET Core</p>
+            </div>
+            <div className="text-center hover:transform hover:scale-110 transition-transform duration-300 ease-in-out">
+              <i className="devicon-tailwindcss-plain text-6xl colored"></i>
+              <p className="mt-2 text-xl text-gray-700">Tailwind CSS</p>
+            </div>
+            <div className="text-center hover:transform hover:scale-110 transition-transform duration-300 ease-in-out">
+              <i className="devicon-spring-plain text-6xl colored"></i>
+              <p className="mt-2 text-xl text-gray-700">Spring Boot</p>
+            </div>
+            <div className="text-center hover:transform hover:scale-110 transition-transform duration-300 ease-in-out">
+              <i className="devicon-git-plain text-6xl colored"></i>
+              <p className="mt-2 text-xl text-gray-700">Git</p>
+            </div>
+            <div className="text-center hover:transform hover:scale-110 transition-transform duration-300 ease-in-out">
+              <i className="devicon-numpy-plain text-6xl colored"></i>
+              <p className="mt-2 text-xl text-gray-700">NumPy</p>
+            </div>
+            <div className="text-center hover:transform hover:scale-110 transition-transform duration-300 ease-in-out">
+              <i className="devicon-pandas-plain text-6xl colored"></i>
+              <p className="mt-2 text-xl text-gray-700">Pandas</p>
+            </div>
+            <div className="text-center hover:transform hover:scale-110 transition-transform duration-300 ease-in-out">
+              <i className="devicon-pytorch-plain text-6xl colored"></i>
+              <p className="mt-2 text-xl text-gray-700">PyTorch</p>
+            </div>
+            <div className="text-center hover:transform hover:scale-110 transition-transform duration-300 ease-in-out">
+              <i className="devicon-scikitlearn-plain text-6xl colored"></i>
+              <p className="mt-2 text-xl text-gray-700">Scikit-learn</p>
+            </div>
+          </div>
+        </div>
+      </section>
       <section id="experience" className="py-16 bg-gray-100 scroll-mt-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-4xl font-extrabold text-gray-800 mb-8 text-center">

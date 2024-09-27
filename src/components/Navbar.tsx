@@ -9,6 +9,7 @@ import { Bars3Icon } from "@heroicons/react/24/outline";
 
 const navigationItems = [
   { name: "About Me", href: "#aboutme" },
+  { name: "Skills", href: "#skills" },
   { name: "Experience", href: "#experience" },
   { name: "Projects", href: "#projects" },
   { name: "Documents", href: "#documents" },
