@@ -1,6 +1,6 @@
 export default function HomePage() {
   return (
-    <div>
+    <div className="bg-white">
       <section
         id="aboutme"
         className="scroll-mt-16 py-12 bg-gradient-to-r from-blue-500 to-indigo-600 text-white"
